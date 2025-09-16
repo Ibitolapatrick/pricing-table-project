@@ -5,7 +5,7 @@ The HTML was provided — I styled everything using Flexbox and practiced center
 ![Screenshot of the project] (./screenshot.png)
 
 ## What I learned
-- How to use Flexbox and `gap` properly
+- How to use Flexbox and 'gap' properly
 - The importance of applying styles to the right parent
 - How to center elements horizontally and vertically
 
