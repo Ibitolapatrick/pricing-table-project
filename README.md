@@ -1,2 +1,11 @@
-# pricing-table-project
-A mini pricing table built with HTML and CSS. The HTML was already provided; I focused on layout, flexbox, spacing, and centering. One of those projects that looks simple but teaches a lot.
+# CSS Pricing Table Challenge
+
+A pricing table layout built with pure CSS as part of Angela Yu’s Web Development Bootcamp.  
+The HTML was provided — I styled everything using Flexbox and practiced centering, spacing, and layout techniques.
+
+## What I learned
+- How to use Flexbox and `gap` properly
+- The importance of applying styles to the right parent
+- How to center elements horizontally and vertically
+
+
